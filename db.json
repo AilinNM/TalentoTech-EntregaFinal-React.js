@@ -1,0 +1,148 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "title": "Laptop Gaming Pro",
+      "price": 1299.99,
+      "description": "Laptop de alto rendimiento para gaming y trabajo profesional con procesador i9 y RTX 4070",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400",
+      "rating": {
+        "rate": 4.7,
+        "count": 156
+      }
+    },
+    {
+      "id": 2,
+      "title": "Smartphone Ultra",
+      "price": 899.99,
+      "description": "Teléfono inteligente con cámara de 108MP, pantalla AMOLED y batería de larga duración",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w-400",
+      "rating": {
+        "rate": 4.5,
+        "count": 203
+      }
+    },
+    {
+      "id": 3,
+      "title": "Auriculares Noise Cancelling",
+      "price": 249.99,
+      "description": "Auriculares inalámbricos con cancelación activa de ruido y 30 horas de batería",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "rating": {
+        "rate": 4.3,
+        "count": 89
+      }
+    },
+    {
+      "id": 4,
+      "title": "Camisa Casual Hombre",
+      "price": 39.99,
+      "description": "Camisa de algodón 100% para ocasiones casuales, disponible en varios colores",
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400",
+      "rating": {
+        "rate": 4.2,
+        "count": 67
+      }
+    },
+    {
+      "id": 5,
+      "title": "Zapatillas Running",
+      "price": 89.99,
+      "description": "Zapatillas deportivas para running con amortiguación premium y suela antideslizante",
+      "category": "sports",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+      "rating": {
+        "rate": 4.6,
+        "count": 124
+      }
+    },
+    {
+      "id": 6,
+      "title": "Reloj Inteligente",
+      "price": 199.99,
+      "description": "Smartwatch con monitor de frecuencia cardíaca, GPS y resistencia al agua",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+      "rating": {
+        "rate": 4.4,
+        "count": 98
+      }
+    },
+    {
+      "id": 7,
+      "title": "Silla Gamer Ergonómica",
+      "price": 349.99,
+      "description": "Silla ergonómica para gaming con soporte lumbar ajustable y reposabrazos 4D",
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400",
+      "rating": {
+        "rate": 4.8,
+        "count": 56
+      }
+    },
+    {
+      "id": 8,
+      "title": "Tablet Pro 12.9\"",
+      "price": 1099.99,
+      "description": "Tablet profesional con pantalla Liquid Retina XDR y chip M2 para creativos",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400",
+      "rating": {
+        "rate": 4.9,
+        "count": 45
+      }
+    },
+    {
+      "id": 9,
+      "title": "Cámara Mirrorless",
+      "price": 1499.99,
+      "description": "Cámara mirrorless profesional con sensor full-frame y grabación 4K 60fps",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=400",
+      "rating": {
+        "rate": 4.7,
+        "count": 78
+      }
+    },
+    {
+      "id": 10,
+      "title": "Mochila Impermeable",
+      "price": 59.99,
+      "description": "Mochila resistente al agua con compartimento para laptop de 15 pulgadas",
+      "category": "accessories",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400",
+      "rating": {
+        "rate": 4.1,
+        "count": 112
+      }
+    },
+    {
+      "id": 11,
+      "title": "Juego de Sartenes Antiadherentes",
+      "price": 79.99,
+      "description": "Set de 3 sartenes de titanio con revestimiento antiadherente y mango ergonómico",
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400",
+      "rating": {
+        "rate": 4.3,
+        "count": 91
+      }
+    },
+    {
+      "id": 12,
+      "title": "Bicicleta de Montaña",
+      "price": 599.99,
+      "description": "Bicicleta de montaña con cuadro de aluminio, suspensión delantera y 21 velocidades",
+      "category": "sports",
+      "image": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?w=400",
+      "rating": {
+        "rate": 4.5,
+        "count": 34
+      }
+    }
+  ]
+}

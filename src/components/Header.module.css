@@ -1,0 +1,102 @@
+.header {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 10px 40px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .logo {
+    flex-basis: 20%; 
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .navbarContainer {
+    flex-basis: 60%; 
+    text-align: center;
+  }
+  
+  .iconsContainer {
+    flex-basis: 20%; 
+    display: flex;
+    justify-content: flex-end; 
+    gap: 20px; 
+  }
+  
+  .iconoDeCarrito {
+    position: relative;
+    cursor: pointer;
+  }
+  
+  .contadorDeCarrito {
+    position: absolute;
+    top: -8px; 
+    right: -10px; 
+    background-color: rgb(228, 42, 42);
+    color: white;
+    border-radius: 50%;
+    padding: 3px 6px;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 1;
+  }
+  
+  .icono {
+    font-size: 24px;
+    cursor: pointer;
+  }
+
+  /* Header.module.css - AGREGAR ESTOS ESTILOS */
+
+.searchContainer {
+  flex: 1;
+  max-width: 400px;
+  margin: 0 20px;
+}
+
+.userDropdown {
+  position: relative;
+  cursor: pointer;
+}
+
+.userMenu {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  min-width: 150px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  display: none;
+  z-index: 1000;
+}
+
+.userDropdown:hover .userMenu {
+  display: block;
+}
+
+.menuItem {
+  display: block;
+  padding: 8px 12px;
+  color: #333;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background 0.2s;
+}
+
+.menuItem:hover {
+  background: #f5f5f5;
+}
+
+.menuItem button {
+  background: none;
+  border: none;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  font: inherit;
+}
